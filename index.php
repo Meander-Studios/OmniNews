@@ -15,5 +15,10 @@
 		include "resources/htmlextras/nav.html";
 	?>
 
+	<form>
+
+	<input type='text' placeholder="What Are You Interested In?">
+
+	</form>
 </body>
 </html>
