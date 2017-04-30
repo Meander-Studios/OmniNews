@@ -20,6 +20,7 @@
 	<form>
 
 	<input type='text' placeholder="What Are You Interested In?">
+	<input type='submit' value="See Your Articles!">
 
 	</form>
 </body>
